@@ -1,6 +1,6 @@
-### I'm FXC7BOT Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+### I'm TaTaBOT Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
-<a href="https://github.com/Fxc7"><img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/glitchtext.png"></a>
+<a href="https://github.com/TaTa142"><img src="https://raw.githubusercontent.com/TaTa142/tata-new-wa/main/src/glitchtext.png"></a>
 </p>
 <br>
 
@@ -10,13 +10,13 @@
 <a href="#"><img title="termux-bot-wa" src="https://img.shields.io/badge/-TERMUX--BOT--WA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Fxc7"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FARHAN-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Fxc7"><img title="Author" src="https://img.shields.io/badge/AUTHOR-TATA-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Fxc7/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fxc7?color=blue&style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fxc7/termux-bot-wa?color=red&style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/network/members"><img title="Forks" src="http://img.shields.io/github/forks/Fxc7/termux-bot-wa?color=red&style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fxc7/termux-bot-wa?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/TaTa142/followers"><img title="Followers" src="https://img.shields.io/github/followers/TaTa142?color=blue&style=flat-square"></a>
+<a href="https://github.com/TaTa142/tata-new/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TaTa142/tata-new?color=red&style=flat-square"></a>
+<a href="https://github.com/TaTa142/tata-new/network/members"><img title="Forks" src="http://img.shields.io/github/forks/TaTa142/tata-new?color=red&style=flat-square"></a>
+<a href="https://github.com/TaTa142/tata-new/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TaTa142/tata-new?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFxc7%2Ftermux-bot-wa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
@@ -25,8 +25,8 @@
 ## I am Hungry Your Donate
 <hr color="black">
 
-* [Saweria](https://saweria.co/FarhanXCo)
-* [Trakteer](https://trakteer.id/FarhanXCo)
+* [Saweria](Kosong)
+* [Trakteer](Kosong)
 
 
 ## Tools
@@ -47,7 +47,7 @@ Follow The Steps Below!
 > pkg upgrade -y
 > pkg install python -y
 > pkg install git -y
-> git clone https://github.com/Fxc7/termux-bot-wa
+> git clone https://github.com/TaTa142/termux-new
 > cd termux-bot-wa
 > bash install.sh
 > npm start / node Fxc7.js
@@ -250,6 +250,6 @@ Follow The Steps Below!
 
 ## Group
 
-* <a href="https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="Kosong"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---
