@@ -1,6 +1,6 @@
 ### I'm TaTaBOT Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
-<a href="https://github.com/TaTa142"><img src="https://raw.githubusercontent.com/TaTa142/tata-new-wa/main/src/glitchtext.png"></a>
+<a href="https://github.com/TaTa142"><img src="https://raw.githubusercontent.com/TaTa142/tata-new-wa/main/src/FB_IMG_16125464256354287.jpg"></a>
 </p>
 <br>
 
